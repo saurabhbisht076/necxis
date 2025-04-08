@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452028395395",
+    "project_id": "nexciusauth",
+    "storage_bucket": "nexciusauth.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452028395395:android:f3bf3f6789bfbab63e10b6",
+        "android_client_info": {
+          "package_name": "com.saurabhbisht.nexcius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452028395395-nv3jqq83mqp6slvdr6j38fb196qsj66a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATFxkH_uedd4fFAz28xPguEV61bvhfNfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452028395395-nv3jqq83mqp6slvdr6j38fb196qsj66a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
