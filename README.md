@@ -32,13 +32,7 @@ Before getting started, make sure you have the following installed:
    npm install
    ```
 
-3. Create a `.env.local` file with your Google OAuth credentials:
-   ```env
-   GOOGLE_CLIENT_ID=your_client_id
-   GOOGLE_CLIENT_SECRET=your_client_secret
-   NEXTAUTH_URL=http://localhost:3000
-   NEXTAUTH_SECRET=your_secret
-   ```
+3. Vercel [https://web-p1qmkhz0d-saurabhbisht076s-projects.vercel.app/](https://web-p1qmkhz0d-saurabhbisht076s-projects.vercel.app/).
 
 4. Add Firebase credentials in `.env.local`:
    ```env
